@@ -1,7 +1,6 @@
 import datetime
 import subprocess
 
-
 #The below works in python command prompt
 #>>> subprocess.Popen(["adb","push","temp1.txt","/dev"],stdout=subprocess.PIPE, shell=True).communicate()[0]
 
