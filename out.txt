@@ -1,0 +1,396 @@
+Match at index 0, 7
+Full match: June 24
+Month: June 24
+Day: June 24
+foo
+Antonín Dvo\u0159ák
+foo bar Antonín Dvo\u0159ák
+
+
+Added here by Aashish 
+aded for misc_python in remote
+
+
+ Printing 
+
+Print title content 
+The 100 best nonfiction books: No 13 – The Female Eunuch by Germaine Greer (1970)
+
+ Print regexThe 100 best nonfiction books: No (\d+)
+
+ matched 
+
+
+ Remove string is 
+The 100 best nonfiction books: No 13
+
+
+
+ desc below 
+
+
+The Australian feminist’s famous polemic, if a little outdated, remains a masterpiece of passionate free expression
+
+
+
+
+
+
+
+ Printing 
+
+Print title content 
+The 100 best nonfiction books: No 12 – Awakenings by Oliver Sacks (1973)
+
+ Print regexThe 100 best nonfiction books: No (\d+)
+
+ matched 
+
+
+ Remove string is 
+The 100 best nonfiction books: No 12
+
+
+
+ desc below 
+
+
+Oliver Sacks’s moving account of how, as a doctor in the late 1960s, he revived patients who had been neurologically ‘frozen’ by sleeping sickness reverberates to this day
+
+
+
+
+
+
+ Printing 
+
+Print title content 
+The 100 best nonfiction books: No 11 – North by Seamus Heaney (1975)
+
+ Print regexThe 100 best nonfiction books: No (\d+)
+
+ matched 
+
+
+ Remove string is 
+The 100 best nonfiction books: No 11
+
+
+
+ desc below 
+
+
+This raw, tender, unguarded collection transcends politics, reflecting Heaney’s desire to move ‘like a double agent among the big concepts’
+
+
+
+
+
+
+ Printing 
+
+Print title content 
+The 100 best nonfiction books: No 10 – The Selfish Gene by Richard Dawkins
+
+ Print regexThe 100 best nonfiction books: No (\d+)
+
+ matched 
+
+
+ Remove string is 
+The 100 best nonfiction books: No 10
+
+
+
+ desc below 
+
+
+An intoxicating renewal of evolutionary theory that coined the idea of the meme and paved the way for Professor Dawkins’s later, more polemical works
+
+
+
+
+
+
+ Printing 
+
+Print title content 
+The 100 best nonfiction books: No 9 – Dispatches by Michael Herr (1977)
+
+ Print regexThe 100 best nonfiction books: No (\d+)
+
+ matched 
+
+
+ Remove string is 
+The 100 best nonfiction books: No 9
+
+
+
+ desc below 
+
+
+A compelling sense of urgency and a unique voice make Michael Herr’s Vietnam memoir the definitive account of war in our time
+
+
+
+
+
+
+ Printing 
+
+Print title content 
+The 100 best nonfiction books: No 8 – Orientalism by Edward Said (1978)
+
+ Print regexThe 100 best nonfiction books: No (\d+)
+
+ matched 
+
+
+ Remove string is 
+The 100 best nonfiction books: No 8
+
+
+
+ desc below 
+
+
+This polemical masterpiece challenging western attitudes to the east is as topical today as it was on publication
+
+
+
+
+
+
+ Printing 
+
+Print title content 
+The 100 best nonfiction books: No 7 – The Right Stuff by Tom Wolfe (1979)
+
+ Print regexThe 100 best nonfiction books: No (\d+)
+
+ matched 
+
+
+ Remove string is 
+The 100 best nonfiction books: No 7
+
+
+
+ desc below 
+
+
+The author raised reportage to dazzling new levels in his quest to discover what makes a man fly to the moon
+
+
+
+
+
+
+ Printing 
+
+Print title content 
+The 100 best nonfiction books: No 6 – A Brief History of Time by Stephen Hawking (1988)
+
+ Print regexThe 100 best nonfiction books: No (\d+)
+
+ matched 
+
+
+ Remove string is 
+The 100 best nonfiction books: No 6
+
+
+
+ desc below 
+
+
+The theoretical physicist’s mega-selling account of the origins of the universe is a masterpiece of scientific inquiry that has influenced the minds of a generation
+
+
+
+
+
+
+ Printing 
+
+Print title content 
+The 100 best nonfiction books: No 5 – Dreams from My Father by Barack Obama (1995)
+
+ Print regexThe 100 best nonfiction books: No (\d+)
+
+ matched 
+
+
+ Remove string is 
+The 100 best nonfiction books: No 5
+
+
+
+ desc below 
+
+
+A remarkably candid memoir that revealed not only a literary talent, but a political force to be reckoned with
+
+
+
+
+
+
+ Printing 
+
+Print title content 
+The 100 best nonfiction books: No 4 – Birthday Letters by Ted Hughes (1998)
+
+ Print regexThe 100 best nonfiction books: No (\d+)
+
+ matched 
+
+
+ Remove string is 
+The 100 best nonfiction books: No 4
+
+
+
+ desc below 
+
+
+These passionate, audacious poems addressed to Hughes’s late wife, Sylvia Plath, contribute to the couple’s mythology and are a landmark in English poetry
+
+
+
+
+
+
+ Printing 
+
+Print title content 
+The 100 best nonfiction books: No 3 – No Logo by Naomi Klein (1999)
+
+ Print regexThe 100 best nonfiction books: No (\d+)
+
+ matched 
+
+
+ Remove string is 
+The 100 best nonfiction books: No 3
+
+
+
+ desc below 
+
+
+Naomi Klein’s timely anti-branding bible combined a fresh approach to corporate hegemony with potent reportage
+
+
+
+
+
+
+ Printing 
+
+Print title content 
+The 100 best nonfiction books: No 2 – The Year of Magical Thinking by Joan Didion (2005)
+
+ Print regexThe 100 best nonfiction books: No (\d+)
+
+ matched 
+
+
+ Remove string is 
+The 100 best nonfiction books: No 2
+
+
+
+ desc below 
+
+
+This steely and devastating examination of the author’s grief following the sudden death of her husband changed the nature of writing about bereavement
+
+
+
+
+
+
+ Printing 
+
+Print title content 
+The 100 best nonfiction books: No 1 – The Sixth Extinction by Elizabeth Kolbert (2014)
+
+ Print regexThe 100 best nonfiction books: No (\d+)
+
+ matched 
+
+
+ Remove string is 
+The 100 best nonfiction books: No 1
+
+
+
+ desc below 
+
+
+The first in a new series on the world’s most important works of nonfiction is an engrossing account of the looming catastrophe caused by ecology’s ‘neighbours from hell’ – mankind
+
+
+
+
+
+
+ Printing 
+
+Print title content 
+What makes a book great? with Frances Hardinge and Robert McCrum – books podcast
+
+ Print regexThe 100 best nonfiction books: No (\d+)
+
+
+
+ desc below 
+
+
+As a children’s novel is proclaimed Costa book of the year, and a new Guardian series sets out to identify the 100 best non-fiction books of all time, we investigate literary stature
+
+
+
+
+
+
+ Printing 
+
+Print title content 
+The 100 best nonfiction books of all time: what should make the list?
+
+ Print regexThe 100 best nonfiction books: No (\d+)
+
+
+
+ desc below 
+
+
+The Observer has embarked on a two year quest to come up with a list of books that have shaped the Anglo-American imagination. Which are your top titles?
+
+
+
+
+
+
+ Printing 
+
+Print title content 
+The 100 best nonfiction books of all time
+
+ Print regexThe 100 best nonfiction books: No (\d+)
+
+
+
+ desc below 
+
+
+The Observer’s definitive 100 works of nonfiction starts here – key texts in English that have made us who we are
+
+
+
+ Printing whole list of Book dictionaries 
+
+
